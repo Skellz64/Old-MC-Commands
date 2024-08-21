@@ -1,6 +1,6 @@
 # Old-MC-Commands
 
-The main page of the mod **(w/downloads)** is currently being hosted at [Modrinth](https://modrinth.com/project/playercommands-(old-mc)) 
+The main page of the mod is currently being hosted at [Modrinth](https://modrinth.com/project/playercommands-(old-mc)) 
 
 # About
 
